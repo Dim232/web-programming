@@ -1,3 +1,74 @@
+.header {
+    height: 75px;
+    background: #222222;
+}
+
+.header-wrap {
+    margin: 0 auto;
+    width: 1140px;
+    display: flex;
+    justify-content: space-between;
+}
+
 .fig-logo-img {
+    margin: 0 41px 0 0;
+}
+
+.fig-menu-img {
     margin: 0;
+}
+
+.fig-cabinet-img {
+    margin: 0 0 0 42px;
+}
+
+.fig-shop-img {
+    margin: 0 0 0 42px;
+}
+
+.header-group1 {
+    display: flex;
+}
+
+.header-group2 {
+    display: flex;
+}
+
+.logo {
+    height: 75px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.search {
+    height: 75px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.menu {
+    height: 75px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.cabinet {
+    height: 75px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.shop {
+    height: 75px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.search-text {
+    margin: 0 0 0 0;
 }
